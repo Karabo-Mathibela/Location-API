@@ -2,10 +2,10 @@
 A simple Spring Boot REST API for managing location data with region, name, and fare information.
 
 # Features
-RESTful endpoints for CRUD operations
-In-memory H2 database for development
-Spring Data JPA repository with custom query methods
-H2 console enabled for database inspection
+* RESTful endpoints for CRUD operations
+* In-memory H2 database for development
+* Spring Data JPA repository with custom query methods
+* H2 console enabled for database inspection
 Configured for easy portability and testing
 
 ## Getting Started
